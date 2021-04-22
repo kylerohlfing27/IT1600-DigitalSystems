@@ -1,6 +1,6 @@
-* Home
-* Hiking
-* Web Design
+* [Home](./README.md)
+* [Hiking](./hiking.md)
+* [Web Design](./webdesign.md)
 
 # IT1600-DigitalSystems
 

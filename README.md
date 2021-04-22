@@ -1,6 +1,6 @@
-* Building Computers
-* Hiking
-* Web Design
+* [Building Computers](./computers.md)
+* [Hiking](./hiking.md)
+* [Web Design](./webdesign.md)
 
 # IT1600-DigitalSystems
 

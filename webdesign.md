@@ -1,6 +1,6 @@
-* Home
-* Building Computers
-* Hiking
+* [Home](./README.md)
+* [Building Computers](./computers.md)
+* [Hiking](./hiking.md)
 
 # IT1600-DigitalSystems
 

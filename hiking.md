@@ -1,6 +1,6 @@
-* Home
-* Building Computers
-* Web Design
+* [Home](./README.md)
+* [Building Computers](./computers.md)
+* [Web Design](./webdesign.md)
 
 # IT1600-DigitalSystems
 
