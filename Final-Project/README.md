@@ -4,6 +4,7 @@
 <!-- 5/6/2021 // University of Missouri - Columbia -->
 
 -=-=-=-=-=-=-=-=-=-
+
 Table Of Contents
 -------------------
 * Picking Parts
@@ -15,5 +16,6 @@ Table Of Contents
 * GPU Installation
 * Power Supply Installation
 * Wiring
+
 -=-=-=-=-=-=-=-=-=-
 
