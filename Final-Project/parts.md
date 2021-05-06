@@ -17,3 +17,16 @@ Table Of Contents
 
 Picking Parts
 =============
+
+You are going to need 8 main components to build a desktop computer. These parts include:
+* Case
+--* Full ATX Size in order to fit the motherboard
+* Motherboard
+--* ATX Size Motherboard. This is to ensure we have enough room for our parts.
+* CPU (Processor)
+* Processor Cooler
+* RAM
+* Storage Units
+* Graphics Card (GPU)
+* Power Supply
+
