@@ -65,3 +65,7 @@ Power Supply (PSU)
 The power supply is where the computer draws in power from an external source and moderates it to a voltage that is acceptable for the parts inside. This is also where you will connect all of your parts so they can receive power. It is important to get a power supply that can provide enough power to all of your components or the computer may not work properly.
 
 I Chose the [NZXT C750](https://www.nzxt.com/products/c750) due to its price as well as the Gold certified rating for wattages. This ensures a very good standard for the electrical components inside the Power Supply. The power supply can also provide 750 watts of power which is more than enough to cover all of my components.
+
+-----
+
+* [Next Page](./mobo.md)
