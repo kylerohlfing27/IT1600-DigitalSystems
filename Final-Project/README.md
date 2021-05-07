@@ -28,3 +28,7 @@ The purpose of this tutorial is to help anyone who is interested in building a d
 
 My target audience is anyone who is looking to build a desktop computer. The tutorial will mainly apply to people who are looking to build a computer for gaming, but this still applies to any level of PC building. This is just because the parts I will be talking about are intended to be used for high intensity processing such as high-end gaming. This tutorial will also be helpful for anyone looking to learn more about how a computer operates down to a more complex level.
 
+-----
+
+* [Get Started](./parts.md)
+
