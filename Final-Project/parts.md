@@ -68,4 +68,4 @@ I Chose the [NZXT C750](https://www.nzxt.com/products/c750) due to its price as 
 
 -----
 
-* [Next Page](./mobo.md)
+* [Motherboard Installation](./mobo.md)
